@@ -37,10 +37,11 @@ The performance of different algorithms is summarized below:
 ## Key Findings (Feature Importance)
 The analysis shows that **Glucose levels**, **BMI**, and **Age** are the strongest predictors of diabetes in this dataset. This aligns with medical research where metabolic factors play a primary role.
 
-1. ** Glucose ** ( most significant)
-2. ** BMI **
-3. ** Age **
-4. ** Diabetes Pedigree Function ** 
+
+1. **Glucose** (Most significant)
+2. **BMI**
+3. **Age**
+4. **Diabetes Pedigree Function** 
 5. **Blood Pressure**
 6. **Pregnancies**
 7. **Insulin**
