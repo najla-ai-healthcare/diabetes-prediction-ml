@@ -36,7 +36,7 @@ The performance of different algorithms is summarized below:
 ### Visual Analysis
 | Feature Importance | ROC Curve Comparison |
 | :---: | :---: |
-| ![Feature Importance](plot1.png) | ![ROC Curve Comparison](plot2.png) |
+| ![Feature_Importance](plot1.png) | ![ROC_Curve_Comparison](plot2.png) |
 
 #### ROC Curve Comparison
 The ROC Curve Comparison plot evaluates the performance of different models (Logistic Regression, Random Forest, and KNeighbors) simultaneously. 
